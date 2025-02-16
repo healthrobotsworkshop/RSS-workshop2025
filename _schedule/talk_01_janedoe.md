@@ -8,5 +8,5 @@ speaker: Eduard Fosch-Villaronga
 # affil2: BuzzFizz Corp
 # affil2_link: https://buzzfizz.corp
 title: Keynote
-time: 0915am - 1000am
+time: 09:15am - 10:00am
 ---

@@ -9,5 +9,5 @@ speaker:
 title: Welcome and Introductions
 
 # Time of the event
-time: 0900am - 0915am
+time: 09:00am - 09:15am
 ---

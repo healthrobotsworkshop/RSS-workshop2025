@@ -1,20 +1,16 @@
 ---
 # Name of the organizer
-name: Organizer Jane Doe
+name: Pratyusha Ghosh
 
 # Link to the organizer's webpage
-webpage: https://jane.doe
+webpage: https://pratyusha-g.github.io/
 
 # Primary affiliation
-affil: Buzz University
+affil: University of California San Diego
 # Link to the primary affiliation
-affil_link: https://buzz.edu
+affil_link: https://healthrobotics.ucsd.edu/people/pratyusha.html
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: jane.jpg
+img: pratyusha.jpg
 
-# Secondary affiliation
-affil2: BuzzFizz Corp
-# Link to the secondary affiliation
-affil2_link: https://buzzfizz.corp
 ---

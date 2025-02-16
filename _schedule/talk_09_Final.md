@@ -2,5 +2,5 @@
 sequence_id: 9
 speaker: 
 title: Group Discussion + Next Steps
-time: 0400pm - 0500pm
+time: 04:00pm - 05:00pm
 ---
