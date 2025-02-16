@@ -6,7 +6,7 @@ permalink: /
 title: 'Robots in Healthcare: Downstream Effects and Upstream Interventions'
 layout: home
 ---
-Proposed to RSS '25: June 21, 2025. Hybrid in-person and virtua
+Proposed to RSS '25: June 21, 2025. Hybrid in-person and virtual
 <div style="margin-bottom: 20px;"></div>
 
 <div style="display: flex; justify-content: space-around;">
