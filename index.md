@@ -6,6 +6,10 @@ permalink: /
 title: 'Robots in Healthcare: Downstream Effects and Upstream Interventions'
 layout: home
 ---
+Proposed to RSS '25: June 21, 2025. Hybrid in-person and virtual
+![](assets/img/hri23kubota.png)
+![](assets/img/hri23matsumoto.png)
+![](assets/img/iris21.png)
 
 Integrating robots into healthcare presents significant opportunities to improve patient care and support clinicians [1,2]. Many researchers have explored using robots to provide physical, cognitive, and social assistance [3-6]. 
 
