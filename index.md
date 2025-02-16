@@ -6,13 +6,25 @@ permalink: /
 title: 'Robots in Healthcare: Downstream Effects and Upstream Interventions'
 layout: home
 ---
-Proposed to RSS '25: June 21, 2025. Hybrid in-person and virtual
+
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="assets/img/hri23kubota.png" alt="HRI 2023 Kubota" style="width: 30%; height: auto;">
-  <img src="assets/img/hri23matsumoto.png" alt="HRI 2023 Matsumoto" style="width: 30%; height: auto;">
-  <img src="assets/img/iris21.png" alt="IRIS 2021" style="width: 30%; height: auto;">
+  <div style="text-align: center;">
+    <img src="assets/img/hri23kubota.png" alt="Kubota et al. 2023" style="width: 250px; height: auto;">
+    <p><a href="https://dl.acm.org/doi/10.1145/3568162.3576993" target="_blank">Kubota et al. 2023</a></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/img/hri23matsumoto.png" alt="Matsumoto et al. 2023" style="width: 250px; height: auto;">
+    <p><a href="https://dl.acm.org/doi/10.1145/3568162.3576994" target="_blank">Matsumoto et al. 2023</a></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/img/iris21.png" alt="Matsumoto et al. 2022" style="width: 250px; height: auto;">
+    <p><a href="https://example.com/iris21" target="_blank">Matsumoto et al. 2022</a></p>
+  </div>
 </div>
+
+
+Proposed to RSS '25: June 21, 2025. Hybrid in-person and virtual
 
 Integrating robots into healthcare presents significant opportunities to improve patient care and support clinicians [1,2]. Many researchers have explored using robots to provide physical, cognitive, and social assistance [3-6]. 
 
@@ -24,8 +36,8 @@ This workshop will bring together transdisciplinary researchers and practitioner
 
 We will promote critical dialogue, generate actionable recommendations, and lay the groundwork for future research and policy initiatives towards the downstream success of healthcare robots. To continue collaboration post-workshop, we will organize a journal special issue to explore workshop topics in depth.
 
-
-Cite:
+<div style="font-size: 0.8em;">
+Citations:
   [1]Riek, L. D. (2017). Healthcare robotics. Communications of the ACM, 60(11), 68-78.
   [2] Kyrarini, M. et al.  (2021). "A survey of robots in healthcare." Technologies 9.1 (2021): 8.
   [3] Nanavati, A. et al. (2023). Physically assistive robots: A systematic review of mobile and manipulator robots that physically assist people with disabilities. Annual Review of Control, Robotics, and Autonomous Systems, 7.
@@ -36,3 +48,4 @@ Cite:
   [8] Tulk Jesso, S.et al. (2024). On the potential for human-centered, cognitively inspired AI to bridge the gap between optimism and reality for autonomous robotics in healthcare: a respectful critique. In Human Factors and Ergonomics in Health Care (Vol. 13, No. 1, pp. 106-112). 
   [9] McKinlay, J. B. (1979). A case for refocusing upstream: the political economy of illness. Patients, physicians and illness: A sourcebook in behavioral science and health, 9-25.
   [10] Veinot, T. C., et al. (2019). Leveling up: on the potential of upstream health informatics interventions to enhance health equity. Medical care, 57, S108-S114.
+</div>
