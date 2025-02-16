@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: Home
+title: 'Robots in Healthcare: Downstream Effects and Upstream Interventions'
 layout: home
 ---
 

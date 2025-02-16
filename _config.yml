@@ -57,16 +57,16 @@ last_updated: true
 # Define collections (speakers, organizers, papers)
 # To turn off any of these collections, just set "output" to "false"
 collections:
+  schedule:
+    sort_by: sequence_id
+    output: true
   speakers:
     output: true
   organizers:
     output: true
-  schedule:
-    sort_by: sequence_id
-    output: true
-  papers:
-    sort_by: sequence_id
-    output: true
+  # papers:
+  #   sort_by: sequence_id
+  #   output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
