@@ -7,6 +7,7 @@ title: 'Robots in Healthcare: Downstream Effects and Upstream Interventions'
 layout: home
 ---
 
+<div style="margin-bottom: 20px;"></div>
 
 <div style="display: flex; justify-content: space-around;">
   <div style="text-align: center;">
@@ -25,6 +26,7 @@ layout: home
 
 
 Proposed to RSS '25: June 21, 2025. Hybrid in-person and virtual
+<div style="margin-bottom: 20px;"></div>
 
 Integrating robots into healthcare presents significant opportunities to improve patient care and support clinicians [1,2]. Many researchers have explored using robots to provide physical, cognitive, and social assistance [3-6]. 
 
@@ -37,7 +39,7 @@ This workshop will bring together transdisciplinary researchers and practitioner
 We will promote critical dialogue, generate actionable recommendations, and lay the groundwork for future research and policy initiatives towards the downstream success of healthcare robots. To continue collaboration post-workshop, we will organize a journal special issue to explore workshop topics in depth.
 
 <div style="font-size: 0.8em;">
-Citations:
+Bibliography:
   [1]Riek, L. D. (2017). Healthcare robotics. Communications of the ACM, 60(11), 68-78.
   [2] Kyrarini, M. et al.  (2021). "A survey of robots in healthcare." Technologies 9.1 (2021): 8.
   [3] Nanavati, A. et al. (2023). Physically assistive robots: A systematic review of mobile and manipulator robots that physically assist people with disabilities. Annual Review of Control, Robotics, and Autonomous Systems, 7.
