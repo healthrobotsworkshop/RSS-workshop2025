@@ -3,7 +3,7 @@
 name: Sandhya Jayaraman
 
 # Link to the organizer's webpage
-webpage: 
+webpage: linkedin.com/in/sandhya-jayaraman
 
 # Primary affiliation
 affil: University of California San Diego
