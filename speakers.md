@@ -1,5 +1,5 @@
 ---
 layout: speakers
-title: Conformed Speakers
+title: Confirmed Speakers
 permalink: /speakers/
 ---
