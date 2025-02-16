@@ -7,15 +7,16 @@ title: 'Robots in Healthcare: Downstream Effects and Upstream Interventions'
 layout: home
 ---
 
-Integrating robots into healthcare presents significant opportunities to improve patient care and support clinicians [1,2]. Many researchers have explored using robots to provide physical, cognitive, and social assistance [3,4,5]. 
+Integrating robots into healthcare presents significant opportunities to improve patient care and support clinicians [1,2]. Many researchers have explored using robots to provide physical, cognitive, and social assistance [3-6]. 
 
-In parallel, a growing body of interdisciplinary work across areas spanning robotics, human-robot interaction, policy, ethics, and healthcare explores broader socio-technical and ethical impacts of healthcare robots. Researchers are exploring questions of 1) Agency: when and how do healthcare robots infringe on users' autonomy / agency [11]? 2) Policy: how do we design policy frameworks for healthcare robots? 3) Translation: how can these policies and guidelines be integrated into robot deployments?
+In parallel, a growing body of interdisciplinary work across areas spanning robotics, human-robot interaction, and policy explores broader socio-technical and ethical impacts of healthcare robots. Researchers are exploring questions of 1) Agency: when, and how, do healthcare robots infringe on users' autonomy / agency? 2) Policy: how do we design policy frameworks for healthcare robots? 3) Translation: how can policies and guidelines be integrated into robot deployments?
 
-However, real-world robot deployments in healthcare settings have brought to light complex issues, and unintended consequences. These include worker displacement, care reconfiguration, and the reinforcement of social biases and inequities [6,7,8].  More research is needed to understand how such ``downstream'' effects [9] may impact patients, healthcare workers, and adjacent communities. 
+However, real-world robot deployments in healthcare settings have brought to light complex issues and unintended consequences. These include worker displacement, care reconfiguration, and the reinforcement of social biases and inequities [6-10].  More research is needed to understand how such ''downstream'' effects [11] may impact patients, healthcare workers, and adjacent communities. 
 
-This workshop will bring together a transdisciplinary group of researchers and practitioners (roboticists, healthcare workers, social scientists) to explore these topics, from both academia and industry. We will identify downstream effects of robots in healthcare, and ideate on ``upstream'' interventions [10] to mitigate them. We will explore topics including how clinically assistive robots impact clinical workflow, privacy considerations that still support robotic applications, and best practices on the continuous inclusion of key stakeholder groups. 
+This workshop will bring together transdisciplinary researchers and practitioners (roboticists, healthcare workers, social scientists) to explore these topics. We will identify downstream effects of robots in healthcare, and ideate ''upstream'' interventions [12] to mitigate them. We will explore topics including how clinically assistive robots impact workflow, privacy considerations, and best practices for including key stakeholder groups to design/develop/deploy robots. 
 
-We will promote critical dialogue, generate actionable recommendations, and lay the groundwork for future research and policy initiatives towards the downstream success of healthcare robots. To continue collaboration beyond the workshop, we will organize a journal special issue (e.g., RA-L, ACM HEALTH), to explore key workshop topics in depth.
+We will promote critical dialogue, generate actionable recommendations, and lay the groundwork for future research and policy initiatives towards the downstream success of healthcare robots. To continue collaboration post-workshop, we will organize a journal special issue to explore workshop topics in depth.
+
 
 Cite:
   [1]Riek, L. D. (2017). Healthcare robotics. Communications of the ACM, 60(11), 68-78.
