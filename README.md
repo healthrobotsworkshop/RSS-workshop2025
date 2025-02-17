@@ -7,4 +7,4 @@ This Workshop tempalte is based on `sniffle` which is an easy-to-use [Jekyll](ht
 * populating **schedule** webpages
 * managing a list of **accepted papers**
 
-This tempalte has a different style in Speakers, Organizers and Schedule section.
+This template has a different style in Speakers, Organizers and Schedule section.
