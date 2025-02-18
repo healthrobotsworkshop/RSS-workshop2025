@@ -33,22 +33,22 @@ layout: default
 			        	<b>{{ scheduleitem.title }}</b>
 		        	</div>
 		        </td>
-		        <td>
+		        <!-- <td>
 		            <div class="people-name text-center">
-		            	<!-- scheduleitem name (link to webpage if provided) -->
+		            	scheduleitem name (link to webpage if provided) add comment
 		            	{% if scheduleitem.webpage %}
 		            		<a href="{{ scheduleitem.webpage }}" target="_blank">{{ scheduleitem.speaker }}</a>
 		            	{% else %}
 		            		{{ scheduleitem.speaker }}
 		            	{% endif %}
 		                <br>
-		                <!-- scheduleitem affiliation (if provided) -->
+		                scheduleitem affiliation (if provided) add comment
 		                {% if scheduleitem.affil_link %}
 		                	<a href="{{ scheduleitem.affil_link }}" target="_blank">{{ scheduleitem.affil }}</a>
 		                {% else %}
 		                	{{ scheduleitem.affil }}
 		                {% endif %}
-		                <!-- Additional scheduleitem affiliation (if provided) -->
+		                Additional scheduleitem affiliation (if provided) add comment
 		                {% if scheduleitem.affil2_link %}
 		                	<br>
 		                	<a href="{{ scheduleitem.affil2_link }}" target="_blank">{{ scheduleitem.affil2 }}</a>
@@ -57,7 +57,7 @@ layout: default
 		                	{{ scheduleitem.affil2 }}
 		                {% endif %}
 		            </div>
-		        </td>
+		        </td> -->
 		    </tr>
 	    {% endfor %}
 	  </table>
