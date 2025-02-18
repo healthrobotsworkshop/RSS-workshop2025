@@ -11,16 +11,16 @@ Proposed to RSS '25: June 21, 2025. Hybrid in-person and virtual
 
 <div style="display: flex; justify-content: space-around;">
   <div style="text-align: center;">
-    <img src="assets/img/hri23kubota.png" alt="[13]" style="width: 250px; height: 250px; object-fit: cover;">
-    <p><a href="https://dl.acm.org/doi/10.1145/3568162.3576993" target="_blank">Kubota et al. 2023</a></p>
+    <img src="assets/img/hri23kubota.png" alt="Kubota et al. 2023" style="width: 250px; height: 250px; object-fit: cover;">
+    <p><a href="https://dl.acm.org/doi/10.1145/3568162.3576993" target="_blank">[13]</a></p>
   </div>
   <div style="text-align: center;">
-    <img src="assets/img/hri23matsumoto.png" alt="[14]" style="width: 250px; height: 250px; object-fit: cover;">
-    <p><a href="https://dl.acm.org/doi/10.1145/3568162.3576994" target="_blank">Matsumoto et al. 2023</a></p>
+    <img src="assets/img/hri23matsumoto.png" alt="Matsumoto et al. 2023" style="width: 250px; height: 250px; object-fit: cover;">
+    <p><a href="https://dl.acm.org/doi/10.1145/3568162.3576994" target="_blank">[14]</a></p>
   </div>
   <div style="text-align: center;">
-    <img src="assets/img/iris21.png" alt="[15]" style="width: 250px; height: 250px; object-fit: cover;">
-    <p><a href="https://example.com/iris21" target="_blank">Matsumoto et al. 2022</a></p>
+    <img src="assets/img/iris21.png" alt="Matsumoto et al. 2022" style="width: 250px; height: 250px; object-fit: cover;">
+    <p><a href="https://example.com/iris21" target="_blank">[15]</a></p>
   </div>
 </div>
 
