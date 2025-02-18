@@ -9,17 +9,17 @@ layout: home
 Proposed to RSS '25: June 21, 2025. Hybrid in-person and virtual
 <div style="margin-bottom: 20px;"></div>
 
-<div style="display: flex; justify-content: space-around;">
-  <div style="text-align: center;">
-    <img src="assets/img/hri23kubota.png" alt="Kubota et al. 2023" style="width: 250px; height: 250px; object-fit: cover;">
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <div style="text-align: center; flex: 1 1 250px; margin: 10px;">
+    <img src="assets/img/hri23kubota.png" alt="Kubota et al. 2023" style="width: 100%; max-width: 250px; height: auto; object-fit: cover;">
     <p><a href="https://dl.acm.org/doi/10.1145/3568162.3576993" target="_blank">[13]</a></p>
   </div>
-  <div style="text-align: center;">
-    <img src="assets/img/hri23matsumoto.png" alt="Matsumoto et al. 2023" style="width: 250px; height: 250px; object-fit: cover;">
+  <div style="text-align: center; flex: 1 1 250px; margin: 10px;">
+    <img src="assets/img/hri23matsumoto.png" alt="Matsumoto et al. 2023" style="width: 100%; max-width: 250px; height: auto; object-fit: cover;">
     <p><a href="https://dl.acm.org/doi/10.1145/3568162.3576994" target="_blank">[14]</a></p>
   </div>
-  <div style="text-align: center;">
-    <img src="assets/img/iris21.png" alt="Matsumoto et al. 2022" style="width: 250px; height: 250px; object-fit: cover;">
+  <div style="text-align: center; flex: 1 1 250px; margin: 10px;">
+    <img src="assets/img/iris21.png" alt="Matsumoto et al. 2022" style="width: 100%; max-width: 250px; height: auto; object-fit: cover;">
     <p><a href="https://example.com/iris21" target="_blank">[15]</a></p>
   </div>
 </div>
