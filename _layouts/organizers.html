@@ -3,22 +3,22 @@ layout: default
 ---
 
 <style>
-    .organizer-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-    }
-    .organizer {
-      text-align: center;
-      flex: 1 1 250px;
-      margin: 10px;
-    }
-    .large-people-pic {
-      /* width: 100%; */
-      max-width: 250px;
-      height: 250px;
-    }
-  </style>
+  .organizer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .organizer {
+    text-align: center;
+    flex: 1 1 250px;
+    margin: 10px;
+  }
+  .large-people-pic {
+    width: 100%;
+    max-width: 250px;
+    height: 250px;
+  }
+</style>
 
 <article class="post">
 
@@ -27,46 +27,42 @@ layout: default
   </header>
 
   <div class="post-content">
-      <table style="border-collapse: collapse; border: none;">
-          <tr style="border: none;">
-              {% for organizer in site.organizers %}
-                  <td style="border: none;">
-                      <div class="col-xs-12 text-center">
-                          <p align="center">
-                              {% if organizer.img %}
-                                  <img class="people-pic large-people-pic" src="{{ organizer.img | prepend: '/assets/img/organizers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-                              {% else %}
-                                  <img class="people-pic large-people-pic" src="{{ 'avatar.jpg' | prepend: '/assets/img/organizers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-                              {% endif %}
-                          </p>
-                          <div class="people-name">
-                              <!-- organizer name (link to webpage if provided) -->
-                              {% if organizer.webpage %}
-                                  <a href="{{ organizer.webpage }}" target="_blank">{{ organizer.name }}</a>
-                              {% else %}
-                                  {{ organizer.name }}
-                              {% endif %}
-                              <br>
-                              <!-- organizer affiliation (if provided) -->
-                              {% if organizer.affil_link %}
-                                  <a href="{{ organizer.affil_link }}" target="_blank">{{ organizer.affil }}</a>
-                              {% else %}
-                                  {{ organizer.affil }}
-                              {% endif %}
-                              <!-- Additional organizer affiliation (if provided) -->
-                              {% if organizer.affil2_link %}
-                                  <br>
-                                  <a href="{{ organizer.affil2_link }}" target="_blank">{{ organizer.affil2 }}</a>
-                              {% elsif organizer.affil2 %}
-                                  <br>
-                                  {{ organizer.affil2 }}
-                              {% endif %}
-                          </div>
-                      </div>
-                  </td>
-              {% endfor %}
-          </tr>
-      </table>
+    <div class="organizer-container">
+      {% for organizer in site.organizers %}
+        <div class="organizer">
+          <p align="center">
+            {% if organizer.img %}
+              <img class="people-pic large-people-pic" src="{{ organizer.img | prepend: '/assets/img/organizers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+            {% else %}
+              <img class="people-pic large-people-pic" src="{{ 'avatar.jpg' | prepend: '/assets/img/organizers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+            {% endif %}
+          </p>
+          <div class="people-name">
+            <!-- organizer name (link to webpage if provided) -->
+            {% if organizer.webpage %}
+              <a href="{{ organizer.webpage }}" target="_blank">{{ organizer.name }}</a>
+            {% else %}
+              {{ organizer.name }}
+            {% endif %}
+            <br>
+            <!-- organizer affiliation (if provided) -->
+            {% if organizer.affil_link %}
+              <a href="{{ organizer.affil_link }}" target="_blank">{{ organizer.affil }}</a>
+            {% else %}
+              {{ organizer.affil }}
+            {% endif %}
+            <!-- Additional organizer affiliation (if provided) -->
+            {% if organizer.affil2_link %}
+              <br>
+              <a href="{{ organizer.affil2_link }}" target="_blank">{{ organizer.affil2 }}</a>
+            {% elsif organizer.affil2 %}
+              <br>
+              {{ organizer.affil2 }}
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
   </div>
 
 </article>
