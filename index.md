@@ -52,7 +52,7 @@ Bibliography:
 </div> -->
 
 <div style="font-size: 0.8em;">
-Bibliography:
+Bibliography: <br/>
   [1] Riek, L. D. (2017). Healthcare robotics. Communications of the ACM, 60(11), 68-78. <br/>
   [2] Kyrarini, M. et al. (2021). "A survey of robots in healthcare." Technologies 9.1 (2021): 8. <br/>
   [3] Nanavati, A. et al. (2023). Physically assistive robots: A systematic review of mobile and manipulator robots that physically assist people with disabilities. Annual Review of Control, Robotics, and Autonomous Systems, 7. <br/>
