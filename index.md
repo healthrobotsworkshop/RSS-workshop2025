@@ -37,7 +37,7 @@ This workshop will bring together transdisciplinary researchers and practitioner
 
 We will promote critical dialogue, generate actionable recommendations, and lay the groundwork for future research and policy initiatives towards the downstream success of healthcare robots. To continue collaboration post-workshop, we will organize a journal special issue to explore workshop topics in depth.
 
-<div style="font-size: 0.8em;">
+<!-- <div style="font-size: 0.8em;">
 Bibliography:
   [1] <a href="https://dl.acm.org/doi/10.1145/3127874" target="_blank">Riek, L. D. (2017). Healthcare robotics. Communications of the ACM, 60(11), 68-78.</a>
   [2] <a href="http://mdpi.com/2227-7080/9/1/8" target="_blank">Kyrarini, M. et al. (2021). "A survey of robots in healthcare." Technologies 9.1 (2021): 8.</a>
@@ -49,4 +49,18 @@ Bibliography:
   [8] <a href="https://www.researchgate.net/publication/380014080_On_the_potential_for_human-centered_cognitively_inspired_AI_to_bridge_the_gap_between_optimism_and_reality_for_autonomous_robotics_in_healthcare_a_respectful_critique" target="_blank">Tulk Jesso, S. et al. (2024). On the potential for human-centered, cognitively inspired AI to bridge the gap between optimism and reality for autonomous robotics in healthcare: a respectful critique. In Human Factors and Ergonomics in Health Care (Vol. 13, No. 1, pp. 106-112).</a>
   [9] <a href="https://www.semanticscholar.org/paper/A-Case-For-Refocusing-Upstream%3A-The-Political-Of-Mckinlay/b83b5f55b36c09294968bf496bc5f00f454c109f" target="_blank">McKinlay, J. B. (1979). A case for refocusing upstream: the political economy of illness. Patients, physicians and illness: A sourcebook in behavioral science and health, 9-25.</a>
   [10] <a href="https://pubmed.ncbi.nlm.nih.gov/31095048/" target="_blank">Veinot, T. C., et al. (2019). Leveling up: on the potential of upstream health informatics interventions to enhance health equity. Medical care, 57, S108-S114.</a>
+</div> -->
+
+<div style="font-size: 0.8em;">
+Bibliography:
+  [1] Riek, L. D. (2017). Healthcare robotics. Communications of the ACM, 60(11), 68-78. <br/>
+  [2] Kyrarini, M. et al. (2021). "A survey of robots in healthcare." Technologies 9.1 (2021): 8. <br/>
+  [3] Nanavati, A. et al. (2023). Physically assistive robots: A systematic review of mobile and manipulator robots that physically assist people with disabilities. Annual Review of Control, Robotics, and Autonomous Systems, 7. <br/>
+  [4] Kubota, A. et al. (2022). Cognitively assistive robots at home: Hri design patterns for translational science. In HRI 2022 (pp. 53-62). <br/>
+  [5] Abdi, J. et al. (2018). Scoping review on the use of socially assistive robot technology in elderly care. BMJ open, 8(2), e018815. <br/>
+  [6] Wright, J. (2023). Robots won't save Japan: An ethnography of eldercare automation. Cornell University Press. <br/>
+  [7] National Nurses United. (2023). Nurses march nationwide in support of safe staffing and patient protections against AI. <br/>
+  [8] Tulk Jesso, S. et al. (2024). On the potential for human-centered, cognitively inspired AI to bridge the gap between optimism and reality for autonomous robotics in healthcare: a respectful critique. In Human Factors and Ergonomics in Health Care (Vol. 13, No. 1, pp. 106-112). <br/>
+  [9] McKinlay, J. B. (1979). A case for refocusing upstream: the political economy of illness. Patients, physicians and illness: A sourcebook in behavioral science and health, 9-25. <br/>
+  [10] Veinot, T. C., et al. (2019). Leveling up: on the potential of upstream health informatics interventions to enhance health equity. Medical care, 57, S108-S114. <br/>
 </div>
