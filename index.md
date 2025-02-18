@@ -11,11 +11,11 @@ Proposed to RSS '25: June 21, 2025. Hybrid in-person and virtual
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <div style="text-align: center; flex: 1 1 250px; margin: 10px;">
-    <img src="assets/img/hri23kubota.png" alt="Kubota et al. 2023" style="width: 100%; max-width: 250px; height: auto; object-fit: cover;">
+    <img src="assets/img/hri23kubota.png" alt="Kubota et al. 2023" style="width: 100%; max-width: 250px; height: 250px; object-fit: cover;">
     <p><a href="https://dl.acm.org/doi/10.1145/3568162.3576993" target="_blank">[13]</a></p>
   </div>
   <div style="text-align: center; flex: 1 1 250px; margin: 10px;">
-    <img src="assets/img/hri23matsumoto.png" alt="Matsumoto et al. 2023" style="width: 100%; max-width: 250px; height: auto; object-fit: cover;">
+    <img src="assets/img/hri23matsumoto.png" alt="Matsumoto et al. 2023" style="width: 100%; max-width: 250px; height: 250px; object-fit: cover;">
     <p><a href="https://dl.acm.org/doi/10.1145/3568162.3576994" target="_blank">[14]</a></p>
   </div>
   <div style="text-align: center; flex: 1 1 250px; margin: 10px;">
