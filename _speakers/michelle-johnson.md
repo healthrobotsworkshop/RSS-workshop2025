@@ -8,7 +8,7 @@ webpage: https://www.med.upenn.edu/rehabilitation-robotics-lab/dr-michelle-johns
 # Primary affiliation of the speaker
 affil: University of Pennsylvania
 # Link to the speaker's primary affiliation
-affil_link: https://www.med.upenn.edu/rehabilitation-robotics-lab/
+# affil_link: https://www.med.upenn.edu/rehabilitation-robotics-lab/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
 img: michelle.jpg

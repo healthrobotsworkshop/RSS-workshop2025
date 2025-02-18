@@ -8,7 +8,7 @@ webpage: https://www.mayacakmak.io/
 # Primary affiliation of the speaker
 affil: University of Washington
 # Link to the speaker's primary affiliation
-affil_link: https://www.cs.washington.edu/
+# affil_link: https://www.cs.washington.edu/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
 img: maya.jpg

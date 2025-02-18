@@ -7,8 +7,8 @@ webpage: https://www.universiteitleiden.nl/en/staffmembers/eduard-fosch-villaron
 
 # Primary affiliation of the speaker
 affil: Leiden University
-# Link to the speaker's primary affiliation
-affil_link: https://www.universiteitleiden.nl/en/law/institute-for-the-interdisciplinary-study-of-the-law/elaw
+# # Link to the speaker's primary affiliation
+# affil_link: https://www.universiteitleiden.nl/en/law/institute-for-the-interdisciplinary-study-of-the-law/elaw
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
 img: eduard.jpg

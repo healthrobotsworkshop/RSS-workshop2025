@@ -1,6 +1,6 @@
 ---
 sequence_id: 1
-speaker: Eduard Fosch-Villaronga
+# speaker: Eduard Fosch-Villaronga
 # webpage: https://www.universiteitleiden.nl/en/staffmembers/eduard-fosch-villaronga
 # affil: Associate Professor, Leiden University
 # affil_link: 

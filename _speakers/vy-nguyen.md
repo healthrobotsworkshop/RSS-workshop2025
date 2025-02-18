@@ -8,7 +8,7 @@ webpage: https://www.linkedin.com/in/v-nguyen-otd-otr-l-80b20818/
 # Primary affiliation of the speaker
 affil: Hello Robot
 # Link to the speaker's primary affiliation
-affil_link: https://hello-robot.com/
+# affil_link: https://hello-robot.com/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
 img: vy.jpg
