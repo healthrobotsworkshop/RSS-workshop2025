@@ -66,7 +66,7 @@ Bibliography: <br/>
   [10] Kubota, A., et al. (2021). Somebody that I used to know: The risks of personalizing robots for dementia care. Proceedings of We Robot. <br/>
   [11] McKinlay, J. B. (1979). A case for refocusing upstream: the political economy of illness. Patients, physicians and illness: A sourcebook in behavioral science and health, 9-25. <br/>
   [12] Veinot, T. C., et al. (2019). Leveling up: on the potential of upstream health informatics interventions to enhance health equity. Medical care, 57, S108-S114. <br/>
-  [13]
-  [14]
-  [15]
+  [13] Matsumoto et al. (2023). Robot, Uninterrupted: Telemedical Robots to Mitigate Care Disruption. In HRI 2023. <br/>
+  [14] Kubota et al. (2023). Get SMART: Collaborative Goal Setting with Cognitively Assistive Robots. In HRI 2023. <br/>
+  [15]  Matsumoto et al. (2022). Iris: A Low-Cost Telemedicine Robot to Support Healthcare Safety and Equity During a Pandemic. In: Lewy, H., Barkan, R. (eds) Pervasive Computing Technologies for Healthcare. PH 2021
 </div>
